@@ -6,6 +6,6 @@ Add description here
 | Role  | Person |
 | ------------- | ------------- |
 | Driver  | [Cable Green](https://github.com/cablegreen)  |
-| Approvers  |   |
+| Approvers  |[Cable Green](https://github.com/cablegreen); [Ryan Merkley]( https://github.com/ryanmerkley)   |
 | Contributors | Add yourselves here |
 | Informed | Add yourselves here |
