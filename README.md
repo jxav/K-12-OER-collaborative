@@ -1,4 +1,4 @@
-# K-12-OER-collaboration
+# K-12 OER Collaborative
 Add description here
 
 ## Who's working on it at Creative Commons?
