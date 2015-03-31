@@ -1,5 +1,5 @@
 # K-12 OER Collaborative
-The K–12 OER Collaborative is an initiative led by a group of 12 states with the goal of creating comprehensive, high-quality, open educational resources (OER) supporting K–12 mathematics and English language arts that are aligned with state learning standards. k12oercollaborative.org
+The K–12 OER Collaborative is an initiative led by a group of 12 states with the goal of creating comprehensive, high-quality, open educational resources (OER) supporting K–12 mathematics and English language arts that are aligned with state learning standards. http://k12oercollaborative.org
 
 ## Who's working on it at Creative Commons?
 
